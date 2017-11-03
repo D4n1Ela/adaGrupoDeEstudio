@@ -1,6 +1,6 @@
 # Links útiles
 
-##Quik Sort
+## Quik Sort
 - https://www.youtube.com/watch?v=DYmTpUfcyT8
 
 
